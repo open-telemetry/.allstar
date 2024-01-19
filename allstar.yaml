@@ -1,0 +1,7 @@
+optConfig:
+  optOutStrategy: false
+  optOutPrivateRepos: false
+  optOutPublicRepos: false
+  optInRepos:
+    - "opentelemetry-go"
+    - "opentelemtry-go-contrib"
