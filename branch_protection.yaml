@@ -1,3 +1,4 @@
+# https://github.com/ossf/allstar#branch-protection
 optConfig:
   optOutStrategy: true
 action: issue
