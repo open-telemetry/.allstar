@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository outlines the security policy enforcement for the OpenTelemetry organization, using the Allstar GitHub App. Allstar helps enforce security best practices by automatically checking and ensuring our repositories comply with our established policies.
+This repository outlines the security policy enforcement for the OpenTelemetry organization, using the [Allstar GitHub App](https://github.com/ossf/allstar). Allstar helps enforce security best practices by automatically checking and ensuring our repositories comply with our established policies.
 
 ## Configured Allstar Actions
 
