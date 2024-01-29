@@ -29,4 +29,4 @@ The following Allstar security policies are actively enforced across the OpenTel
 - Verifies that the main branches (e.g., `main`) have branch protection rules enforced, such as required reviews, status checks, and more.
 
 ### SECURITY.md Policy
-- Checks that a security policy file named `SECURITY.md` is present and properly filled out in each repository. This file should detail how to report security vulnerabilities.
+- Checks that a security policy file named `SECURITY.md` is present and properly filled out in each repository or at the organisation. This file should detail how to report security vulnerabilities.
