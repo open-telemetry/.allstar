@@ -4,5 +4,4 @@ optConfig:
   optOutPrivateRepos: false
   optOutPublicRepos: false
   optInRepos:
-    - "opentelemetry-go"
-    - "opentelemtry-go-contrib"
+    - "opentelemetry-java-instrumentation"
