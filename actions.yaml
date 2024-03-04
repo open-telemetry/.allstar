@@ -3,6 +3,16 @@
 # Currently the "action" is set to "log" for debugging to make sure Allstar is detecting workflows correctly.
 action: log
 groups:
+  - name: "enable-static-check-java-repo"
+    repos:
+      - name: "opentelemetry-java-instrumentation*"
+    rules:
+      - name: "static-check-required"
+        method: "require"
+        requireAll: true
+        mustPass: false
+        actions:
+          - name: "common*"
   - name: "enable-static-check"
     repos:
       - name: "opentelemetry*"
